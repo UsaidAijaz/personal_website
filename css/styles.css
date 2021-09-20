@@ -1,0 +1,205 @@
+body {
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 0;
+}
+
+.freebird {
+  position: absolute;
+  left: 5.8%;
+  padding-top: 0;
+  padding-bottom: 1%;
+}
+
+.header {
+  background-color: #E4F9F5;
+  /* background-color:red; */
+  position: fixed;
+  height: 10%;
+  width: 100%;
+  padding: 2%;
+  z-index: 2;
+  /* display: none; */
+}
+
+a {
+  text-decoration: none;
+}
+
+.header-links {
+  color: #66BFBF;
+  text-decoration: none;
+  padding-left: 35%;
+}
+
+.header-text {
+  /* font-weight: normal; */
+  font-size: 1.2rem;
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 1%;
+  padding-left: 5%;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 8%;
+}
+
+h1 {
+  margin-top: 2rem;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  margin-bottom: 0;
+  /* font-weight: normal; */
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 0;
+  font-weight: normal;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 5%;
+  /* font-weight: normal; */
+}
+
+.upper-cloud {
+  margin-top: 3%;
+  position: relative;
+  left: 25%;
+}
+
+.mountain {
+  position: relative;
+}
+
+.lower-cloud {
+  position: absolute;
+  top: 45%;
+  left: 15%;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 5% auto;
+}
+
+.skills {
+  margin-top: 0;
+  color: #66BFBF;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: 3.5rem;
+  margin-bottom: 0;
+  font-weight: normal;
+}
+
+.skills-row {
+  width: 40%;
+  margin: 5% auto;
+  text-align: left;
+}
+
+.cpp {
+  margin-top: 10%;
+  width: 20%;
+  float: left;
+  margin-right: 20%;
+}
+
+.frameworks {
+  width: 40%;
+  margin: 5% auto;
+  text-align: left;
+}
+
+.bs {
+  margin-top: 7%;
+  width: 20%;
+  float: right;
+  margin-left: 5%;
+}
+
+.github {
+  margin-top: 5%;
+  width: 20%;
+  float: left;
+  margin-right: 20%;
+}
+
+.tools {
+  width: 40%;
+  margin: 5% auto;
+  text-align: left;
+}
+
+.work {
+  color: #66BFBF;
+  /* font-family: 'Montserrat', sans-serif; */
+  font-size: 1.3rem;
+  margin-top: 0;
+}
+
+.last-text {
+  width: 45%;
+  margin: 3% auto;
+  line-height: 2;
+}
+
+.button {
+  background: #11cdd4;
+  /* background-image: linear-gradient(center, #11cdd4, #11999e); */
+  border-radius: 8px;
+  /* font-family: 'Montserrat', sans-serif; */
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.button:hover {
+  background: #11999e;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: #E4F9F5;
+  /* background-color: #66BFBF; */
+}
+
+.social-sites {
+  color: #66BFBF;
+  margin-top: 10%;
+  padding: 5%;
+  padding-bottom: 0;
+}
+
+.insta {
+  color: #66BFBF;
+  text-decoration: none;
+  padding: 5%;
+}
+
+.copyright {
+  line-height: 2;
+  font-size: 0.8em;
+  color: white;
+  padding-top: 2%;
+  margin-bottom: 0;
+}
